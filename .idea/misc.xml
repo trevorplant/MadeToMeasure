@@ -4,13 +4,13 @@
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
   <component name="FireworksProject">
-    <option name="expectedTestCaseNameRegex" />
-    <option name="maxMemory" />
+    <option name="expectedTestCaseNameRegex" value=".*Test" />
+    <option name="maxMemory" value="" />
     <option name="maxSize" value="5" />
     <option name="enable" value="true" />
     <option name="enableAutoTask" value="true" />
     <option name="autoRunTestsDelayTime" value="1000" />
-    <option name="jvmArgs" />
+    <option name="jvmArgs" value="" />
     <option name="clearLogConsole" value="true" />
     <option name="autoShowErrorsInEditorAfterCompile" value="true" />
   </component>
